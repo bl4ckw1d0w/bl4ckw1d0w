@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou Luana A.K.A blackwidow 👋
 
 Desenvolvedora com experiência em segurança cibernética e desenvolvimento de software, com foco em garantir a segurança e a qualidade dos projetos. Com projetos desenvolvidos para empresas remotas e uma sólida base em auditoria de segurança, possuo um perfil autodidata e apaixonado por novas tecnologias.
 
