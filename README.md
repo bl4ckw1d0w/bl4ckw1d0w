@@ -56,7 +56,7 @@ Desenvolvedora com experiência em segurança cibernética e desenvolvimento de 
 
 ## 🚀 Projetos em Destaque
 
-{![Blog](blackwidow.com.br)
+[Link](https://blackwidow.com.br)
 
 Aqui você encontra meus principais projetos open-source, posts técnicos e contribuições para a comunidade.
 
