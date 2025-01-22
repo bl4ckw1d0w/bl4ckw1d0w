@@ -6,32 +6,6 @@ Desenvolvedora com experiência em segurança cibernética e desenvolvimento de 
 
 ---
 
-## 🛠️ Experiência Profissional
-
-### IntruderLabs - Desenvolvedora Jr 
-- **Período**: jun de 2022 - ago de 2024 | Salvador, Bahia (Remoto)
-- **Atividades**:
-  - Desenvolvimento de três softwares focados na segurança da empresa, usando **Golang** e integração com **AWS**.
-  - Auditoria de commits e resolução de problemas técnicos em projetos.
-  - Colaboração em equipe para entregas de alta qualidade e dentro do prazo.
-
-### Cyber Security Analyst - Freelancer
-- **Período**: mai de 2019 - jan de 2021 | Remoto
-- **Atividades**:
-  - Elaboração de relatórios técnicos de pentest e análise de vulnerabilidades.
-  - Apoio à equipe de pentest, com palestras sobre conscientização de segurança.
-  - Monitoramento de ameaças e gestão de vulnerabilidades (ferramentas como Burp, Nessus e Elastic Search).
-
-### iSecurity - Cyber Security Analyst
-- **Período**: nov de 2019 - jan de 2020 | Remoto
-- **Atividades**: Relatórios de pentest, criação de base de dados de vulnerabilidades, e testes de VPN.
-
-### TECH Informática - Programadora e QA
-- **Período**: abr de 2016 - abr de 2017 | Camaçari, Bahia
-- **Atividades**: Desenvolvimento de aplicativos web e QA, focado na garantia de qualidade dos projetos.
-
----
-
 ## 🎓 Formação e Certificações
 
 - **Curso de API Gateway** - Full Cycle | Set 2024
